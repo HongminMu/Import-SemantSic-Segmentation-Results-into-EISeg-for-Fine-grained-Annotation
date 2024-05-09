@@ -17,4 +17,4 @@ Directly annotating an image from scratch is very time-consuming, but using exis
 4用EISeg打开该文件夹：
 ![image](https://github.com/HongminMu/Import-Semantic-Segmentation-Results-into-EISeg-for-Fine-grained-Annotation/assets/57067148/5da80cf9-fbbb-4487-8e70-5d3fc1a2beb1)
 
-就可以进行再标注啦！
+可以进行再标注了
